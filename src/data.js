@@ -9,25 +9,25 @@ export const hobbiesPortfolio = [
     id: 2,
     title: "Reading Books",
     img:
-      "assets/reading.webp",
+      "assets/reading.png",
   },
   {
     id: 3,
     title: "Writting",
     img:
-      "assets/writter.webp",
+      "assets/writter.png",
   },
   {
     id: 4,
     title: "Debate",
     img:
-      "assets/debate.webp",
+      "assets/debate.png",
   },
   {
     id: 5,
     title: "Exploration",
     img:
-      "assets/exploration.webp",
+      "assets/exploration.png",
   },
   {
     id: 6,
@@ -46,17 +46,17 @@ export const strengthPortfolio = [
   {
     id: 2,
     title: "Curiosity",
-    img: "assets/curiosity.webp",
+    img: "assets/curiosity.png",
   },
   {
     id: 3,
     title: "Public Speaking",
-    img: "assets/public-speaking.webp",
+    img: "assets/public-speaking.png",
   },
   {
     id: 4,
     title: "Focused",
-    img: "assets/focused.webp",
+    img: "assets/focused.png",
   },
   {
     id: 5,
@@ -75,7 +75,7 @@ export const professionalPortfolio = [
     id: 1,
     title: "Undegrad research student",
     img:
-      "assets/education.webp",
+      "assets/education.png",
   },
   {
     id: 2,
@@ -87,7 +87,7 @@ export const professionalPortfolio = [
     id: 3,
     title: "Astrophysics",
     img:
-      "assets/space.webp",
+      "assets/space.png",
   },
   {
     id: 4,
@@ -99,7 +99,7 @@ export const professionalPortfolio = [
     id: 5,
     title: "Internshala Student",
     img:
-      "assets/internshala.webp",
+      "assets/internshala.png",
   },
   {
     id: 6,
@@ -114,13 +114,13 @@ export const personalPortfolio = [
     id: 1,
     title: "99, Om Vihar, Ujjain , 456010",
     img:
-      "assets/current-address.webp",
+      "assets/current-address.png",
   },
   {
     id: 2,
     title: "Bihar",
     img:
-      "assets/new-born.webp",
+      "assets/new-born.png",
   },
   {
     id: 3,
@@ -138,7 +138,7 @@ export const personalPortfolio = [
     id: 5,
     title: "9876543210",
     img:
-      "assets/phn-number.webp",
+      "assets/phn-number.png",
   },
   {
     id: 6,
@@ -153,7 +153,7 @@ export const languagesPortfolio = [
     id: 1,
     title: "Hindi",
     img:
-      "assets/hindi.webp",
+      "assets/hindi.png",
   },
   {
     id: 2,

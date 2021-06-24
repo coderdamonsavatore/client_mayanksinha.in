@@ -7,7 +7,7 @@ export default function Testimonials() {
       name: "Love Vaishnav",
       title: "Co-Founder & CTO",
       img:
-        "assets/lv.jpeg",
+        "assets/lv.png",
       icon: "assets/right-arrow.png",
       desc:
         "An enthusiast who loves to explore about space and related stuff.",
@@ -17,7 +17,7 @@ export default function Testimonials() {
       name: "Harshvardhan Pratap Singh",
       title: "Co-Founder & CEO",
       img:
-        "assets/hvps.jpeg",
+        "assets/hvps.png",
       icon: "assets/right-arrow.png",
       desc:
         "A good friend who has abundant knowledge of physics and also has skills to showcase.",
@@ -28,7 +28,7 @@ export default function Testimonials() {
       name: "Samar Pratap Singh",
       title: "Business Consultant",
       img:
-        "assets/sps.jpeg",
+        "assets/sps.png",
       icon: "assets/right-arrow.png",
       desc:
         "Has some really good knowledge of Public speaking , Debate and Group discussion.",
